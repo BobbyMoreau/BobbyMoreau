@@ -1,4 +1,5 @@
 ### ✨ Hi there ✨
+## I'm Bobby
 
 <!--
 **BobbyMoreau/BobbyMoreau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I am studying systemdevelopment at <a href="[https://medieinstitutet.se/utbildningar/front-end-developer/](https://www.jensenyh.se/vara-yh-utbildningar/systemutvecklare-inriktning-sakerhet)" target="_blank">Jensen Education</a> in Malmö, Sweden.
+#### I am studying systemdevelopment at <a href="https://www.jensenyh.se/vara-yh-utbildningar/systemutvecklare-inriktning-sakerhet" target="_blank">Jensen Education</a> in Malmö, Sweden.
 
-Connect with me here: <a href="https://www.linkedin.com/in/bobby-moreau/" target="_blank">LinkedIn</a>.
+Connect with me on <a href="https://www.linkedin.com/in/bobby-moreau/" target="_blank">LinkedIn</a>.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobbyMoreau&theme=gotham)
+
+[![Bobbys's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobbyMoreau&theme=gotham)](https://github.com/bobbyMoreau/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyMoreau&theme=gotham&hide_progress=true)](https://github.com/bobbyMoreau/github-readme-stats)
