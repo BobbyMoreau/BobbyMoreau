@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I am studying systemdevelopment at <a href="https://www.jensenyh.se/vara-yh-utbildningar/systemutvecklare-inriktning-sakerhet" target="_blank">Jensen Education</a> in Malmö, Sweden.
+#### I am a systemdevelopment based in Malmö, Sweden.
 
 Connect with me on <a href="https://www.linkedin.com/in/bobby-moreau/" target="_blank">LinkedIn</a>.
 
